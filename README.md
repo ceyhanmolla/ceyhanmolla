@@ -1,19 +1,53 @@
-# 💫 About Me
+# Ceyhan Molla
 
-- 🔧 Linux system administrator (Ubuntu, Debian, Arch)
-- ⚡ Workflow automation & n8n enthusiast
-- 🌐 Building scalable web infrastructures
-- 📡 IoT projects & real-time data processing
-- 🔐 Web security & infrastructure hardening
+**AI Automation Engineer · Production n8n + LLM workflows · Germany**
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ceyhanmolla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ceyhan.jpeg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ceyhan-molla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ceyhanmolla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CeyhanMolla) 
-
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat-square&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat-square&logo=ovh&logoColor=#123F6D) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat-square&logo=elasticsearch&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-%23D42A2A.svg?style=flat-square&logo=Apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/vim-%2311dd5.svg?style=flat-square&logo=vim&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C23531?style=flat-square&logo=raspberry%20pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) 
+I build production-grade n8n + AI workflows for B2B automation. Eighteen years in IT — the last eight and a half as a senior specialist running hospital infrastructure at scale (150k monthly visitors, ISO 27001/19011 compliant, mission-critical 200k-user systems). Today I focus on multi-API orchestration, LLM integration, and human-in-the-loop automation patterns that actually ship.
 
 ---
-[![](https://komarev.com/ghpvc/?username=ceyhanmolla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I work on
+
+- **n8n + AI** — multi-API orchestration, error handling, audit logging, Slack approval gates
+- **LLM integration** — OpenAI, Anthropic, OpenRouter, structured output, prompt engineering
+- **Self-hosted infra** — Hetzner, Dokploy, Cloudflare, Traefik, PostgreSQL
+- **Full-stack web** — Next.js, TypeScript, Python (asyncio), Cloudflare Workers
+- **Linux systems** — Ubuntu, Debian, Arch — hardening, automation, observability
+- **IoT** — ESP32/ESP8266 sensor pipelines, Elasticsearch, real-time data
+
+---
+
+### Production workflow templates
+
+I sell production-grade n8n + AI workflow templates on [Gumroad](https://plexusagency.gumroad.com) — full ZIP packages with documentation, demo workflow, and customization guide.
+
+- [AdLoop — Daily Ad Intelligence](https://plexusagency.gumroad.com/l/adloop-n8n-meta-google-shopify) — 17-node workflow: Meta + Google + Shopify → AI report → Slack approval
+- [LINA — Voice AI Receptionist](https://plexusagency.gumroad.com/l/n8nVoiceAIReceptionistVAPI) — Vapi + ElevenLabs + Calendar
+- [AI Agency Automation Platform](https://plexusagency.gumroad.com/l/n8n-AI-Agency-Automation-Platform)
+- More → [plexusagency.gumroad.com](https://plexusagency.gumroad.com)
+
+---
+
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [esp8266-indoor-monitor](https://github.com/ceyhanmolla/esp8266-indoor-monitor) | Master's thesis: real-time IoT indoor monitoring with ESP32 + Elasticsearch (10k+ records/day) |
+| [dotfiles](https://github.com/ceyhanmolla/dotfiles) | Arch Linux + i3wm environment config |
+| [domainpulse](https://github.com/ceyhanmolla/domainpulse) | Production n8n + Apollo.io enrichment pipeline → HubSpot |
+| [document-ai-assistant](https://github.com/ceyhanmolla/document-ai-assistant) | RAG-based AI assistant for company documents |
+| [shadcn-crm-dashboard](https://github.com/ceyhanmolla/shadcn-crm-dashboard) | Next.js 16 CRM dashboard (TypeScript, shadcn/ui, Tailwind v4) |
+| [IP-Scanner](https://github.com/ceyhanmolla/IP-Scanner) | Async Python port scanner (Python asyncio) |
+
+---
+
+### Get in touch
+
+- Portfolio: [ceyhanmolla.com](https://www.ceyhanmolla.com)
+- Workflow templates: [plexusagency.gumroad.com](https://plexusagency.gumroad.com)
+- X: [@ceyhanmolla](https://x.com/ceyhanmolla)
+- LinkedIn: [ceyhan-molla](https://linkedin.com/in/ceyhan-molla)
+
+---
+
+**Background:** M.Sc. Management Information Systems (Dokuz Eylül University, ZAB-recognized as German Master's equivalent). 18 years in IT operations and infrastructure. ISO/IEC 27001 and ISO 19011 certified.
